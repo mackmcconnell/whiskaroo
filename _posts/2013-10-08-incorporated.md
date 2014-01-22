@@ -56,14 +56,14 @@ $fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 /* Text colors */
 $text: #21272d;
 $textmuted: #848484;
-$accent: #2077b2;    
+$accent: #2077b2;
 {% endhighlight %}
 
 config.yml:
 {% highlight yaml %}
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
+  title:        "Whiskaroo"
   subtitle:     "Modern Jekyll based blog for companies"
   cover_image:  blog-cover.jpg
   

@@ -3,22 +3,26 @@ layout: base
 ---
 <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
     
+  
     <section>
         <div class="container">
-            <h1>{{ site.inc.title }}</h1>
-            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+          <div class='hero-transparency'>
+            <h1 class='brandon-text shadowed' style= 'font-size: 3.2em; color: #FFCF48;'>Whiskaroo</h1>
+            <h3 style='font-style: italic; font-weight: 400;'>From the good folks at <a href="http://www.tastersclub.com">Taster's Club</a></h3>
         
             {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            <a class='circle-social'href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
             {% endif %}
             {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
+            <a class='circle-social' href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
             {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
+            <a class='circle-social' href="/feed.xml" title="RSS Feed">
                 <i class="icon icon-rss"></i>
             </a>
+          </div>
         </div>
     </section>
+  
 </div>
 
 

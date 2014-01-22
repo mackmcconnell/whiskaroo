@@ -27,23 +27,28 @@
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">     
+    <script type="text/javascript" src="//use.typekit.net/wls5rod.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
     
 <section class="site-nav">
     <header>
-        <nav id="navigation">
-            <a class="brand" href="/">
-                <img src="/images/{{ site.inc.logo }}" alt="Inc">
-            </a>
-            <a href="/" class="home">Blog</a>
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a>{% endif %}
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
-        </nav>
-        {% if site.inc.tagline or site.inc.product_url %}<nav class="tagline">
-            {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}" class="btn btn-outline">Learn More</a>{% endif %}
-        </nav>{% endif %}
+        <div class='container-fluid'>
+          <nav id="navigation">
+              <a class="brand" href="/">
+                  <img src="/images/{{ site.inc.logo }}" alt="Inc">
+              </a>
+              <a style='margin-left: 50px;' href="http://www.tastersclub.com/our-whiskey" class="home">OUR WHISKEY</a>
+              <a href="http://www.tastersclub.com/whiskey-101" class="home">WHISKEY 101</a>
+              <a href="http://www.tastersclub.com/contact" class="home">CONTACT</a>
+              <a href="/" class="home">BLOG</a>
+          </nav>
+          {% if site.inc.tagline or site.inc.product_url %}<nav class="tagline">
+              {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
+              {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}" class="btn btn-outline">Learn More</a>{% endif %}
+          </nav>{% endif %}
+        </div>
     </header>
 </section>
 
@@ -54,10 +59,8 @@
         &copy; {{ site.time | date: "%Y" }} 
         
         <nav>
-            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
+            <a href="{{ site.inc.url }}">Taster's Club</a> &middot;
             <a href="/">Blog</a> &middot;
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a> &middot; {% endif %}
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
         </nav>
         
         <nav class="social">
@@ -71,7 +74,6 @@
                 <i class="icon icon-rss black"></i>
             </a>
         </nav>
-        <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
     </div>
 </footer>
 
