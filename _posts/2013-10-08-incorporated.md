@@ -1,18 +1,15 @@
 ---
 layout: post
-
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
-cover_image: blog-cover.jpg
-
+cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
-
 author:
-  name: Karri Saarinen
-  twitter: karrisaarinen
+  name: Mack McConnell
+  twitter: mackattaq
   gplus: 100687498195339762535 
-  bio: Co-founder, Design
-  image: ks.png
+  bio: Founder | Taster's Club
+  image: author_mack.png
 ---
 
 Incorporated provides a great typography, responsive design, author details, semantic markup and more.

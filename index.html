@@ -9,15 +9,14 @@ layout: base
           <div class='hero-transparency'>
             <h1 class='brandon-text shadowed' style= 'font-size: 3.2em; color: #FFCF48;'>Whiskaroo</h1>
             <h3 style='font-style: italic; font-weight: 400;'>From the good folks at <a href="http://www.tastersclub.com">Taster's Club</a></h3>
-        
-            {% if site.inc.twitter %}
-            <a class='circle-social'href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            {% endif %}
             {% if site.inc.facebook %}
             <a class='circle-social' href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
             {% endif %}
-            <a class='circle-social' href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss"></i>
+            {% if site.inc.twitter %}
+            <a class='circle-social'href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            {% endif %}
+            <a class='circle-social pinterest' href="/feed.xml" title="RSS Feed">
+                <i class="fa fa-pinterest"></i>
             </a>
           </div>
         </div>
@@ -30,7 +29,7 @@ layout: base
 {% for post in paginator.posts %}
   {% unless post.draft %}
     <section class="index">
-        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+         {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}
         <div>
             <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
             <p>{{ post.excerpt }}</p>

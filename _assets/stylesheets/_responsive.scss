@@ -89,13 +89,18 @@
     
     .site-nav {
         #navigation {
-            a {
-                display:none;
+
+            .nav-links {
+                display: inline-block;
+                
+                a {
+                    display:none;
+                }
+                
+                .brand {
+                    display:inline-block;
+                } 
             }
-            
-            .brand {
-                display:inline-block;
-            } 
         }
     }
     

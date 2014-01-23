@@ -29,6 +29,7 @@
     <meta property="og:site_name" content="{{ site.inc.title }}">     
     <script type="text/javascript" src="//use.typekit.net/wls5rod.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 <body>
     
@@ -36,18 +37,17 @@
     <header>
         <div class='container-fluid'>
           <nav id="navigation">
-              <a class="brand" href="/">
+              <a class="brand" href="http://www.tastersclub.com/">
                   <img src="/images/{{ site.inc.logo }}" alt="Inc">
               </a>
-              <a style='margin-left: 50px;' href="http://www.tastersclub.com/our-whiskey" class="home">OUR WHISKEY</a>
-              <a href="http://www.tastersclub.com/whiskey-101" class="home">WHISKEY 101</a>
-              <a href="http://www.tastersclub.com/contact" class="home">CONTACT</a>
-              <a href="/" class="home">BLOG</a>
+              <div class='nav-links'>
+                <a href="http://www.tastersclub.com/our-whiskey" class="home">OUR WHISKEY</a>
+                <a href="http://www.tastersclub.com/whiskey-101" class="home">WHISKEY 101</a>
+                <a href="http://www.tastersclub.com/contact" class="home">CONTACT</a>
+                <a href="/" class="home">BLOG</a>
+                <a href="/" class="home cta">GET STARTED</a>
+              </div>
           </nav>
-          {% if site.inc.tagline or site.inc.product_url %}<nav class="tagline">
-              {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
-              {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}" class="btn btn-outline">Learn More</a>{% endif %}
-          </nav>{% endif %}
         </div>
     </header>
 </section>

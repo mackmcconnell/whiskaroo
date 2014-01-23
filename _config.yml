@@ -1,94 +1,62 @@
 inc:
-  # Blog Information
   title:        "Whiskaroo"
   subtitle:     "Boozy musings from the good folks at Taster's Club"
   cover_image:  whiskaroo_hero.jpg
   logo:         logo_bright.png
-  
-  # Company information
   company:      Taster's Club
   url:          http://www.tastersclub.com/
   facebook:     tastersclub
   twitter:      tastersclub
   gplus:        '101183822199340201470'
   about_link:   https://www.tastersclub.com/
-  
-  # Product Information
   product_link: http://www.tastersclub.com
   tagline:      ""
-  
-  # Comments
   disqus:
-    # Eg. "exampleblog" Set to false to disable comments
     shortname:  false
-  
-  # Sharing settings
   sharing:
     twitter:    false
     facebook:   false
     gplus:      false
-    hn:         false
-    
-  
- # Analytics     
+    hn:         false  
   analytics:
     google: 
-      # eg. 'UA-123-12'
       id:       false
-      
-      
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
-  
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
-
 url:         http://incorporated.sendtoinc.com
 source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     [vendor]
 timezone:    nil
-
-# Show future posts
 future:      false
 show_drafts: nil
 limit_posts: 0
 pygments:    true
-
 relative_permalinks: true
-
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
-
 markdown:      maruku
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
-
 excerpt_separator: "<!-- more -->"
-
 safe:        false
 host:        0.0.0.0
 port:        4000
 baseurl:     /
 lsi:         false
-
 maruku:
   use_tex:    false
   use_divs:   false
   png_engine: blahtex
   png_dir:    images/latex
   png_url:    /images/latex
-
 rdiscount:
   extensions: []
-
 redcarpet:
   extensions: []
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -96,7 +64,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   use_coderay: false
-
   coderay:
     coderay_wrap: div
     coderay_line_numbers: inline
@@ -104,15 +71,9 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
-
 redcloth:
   hard_breaks: true
-
-#
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
 assets:
-
   dirname: assets
   baseurl: /assets/
   sources:
