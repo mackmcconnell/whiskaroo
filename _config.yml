@@ -14,10 +14,10 @@ inc:
   disqus:
     shortname:  false
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
-    hn:         false  
+    twitter:    true
+    facebook:   true
+    gplus:      true
+    hn:         true  
   analytics:
     google: 
       id:       false
