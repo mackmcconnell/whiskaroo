@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+<div class="blog-cover" style="background-image:url(/blog/images/{{ site.inc.cover_image }});">
     
   
     <section>
@@ -29,9 +29,9 @@ layout: base
 {% for post in paginator.posts %}
   {% unless post.draft %}
     <section class="index">
-         {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}
+         {% if post.author.image %}<img src="/blog/images/{{ post.author.image }}" class="avatar">{% endif %}
         <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <h2 class="title"><a href="/blog{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
             <p>{{ post.excerpt }}</p>
             <div class="meta">
                 Written By <address>{{ post.author.name }}</address> &mdash;

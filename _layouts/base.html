@@ -32,50 +32,12 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 <body>
-    
-<section class="site-nav">
-    <header>
-        <div class='container-fluid'>
-          <nav id="navigation">
-              <a class="brand" href="http://www.tastersclub.com/">
-                  <img src="/images/{{ site.inc.logo }}" alt="Inc">
-              </a>
-              <div class='nav-links'>
-                <a href="http://www.tastersclub.com/our-whiskey" class="home">OUR WHISKEY</a>
-                <a href="http://www.tastersclub.com/whiskey-101" class="home">WHISKEY 101</a>
-                <a href="http://www.tastersclub.com/contact" class="home">CONTACT</a>
-                <a href="/" class="home">BLOG</a>
-                <a href="/" class="home cta">GET STARTED</a>
-              </div>
-          </nav>
-        </div>
-    </header>
-</section>
+
+{% include _nav.html %}
 
 {{ content }}
 
-<footer class="site-footer">
-    <div class="container">
-        &copy; {{ site.time | date: "%Y" }} 
-        
-        <nav>
-            <a href="{{ site.inc.url }}">Taster's Club</a> &middot;
-            <a href="/">Blog</a> &middot;
-        </nav>
-        
-        <nav class="social">
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-            {% endif %}    
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss black"></i>
-            </a>
-        </nav>
-    </div>
-</footer>
+{% include _footer.html %}
 
 {% include _scripts.html %}
 

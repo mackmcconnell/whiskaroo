@@ -24,7 +24,8 @@ inc:
   google_font: 'Droid+Sans:400,700'
 url:         http://incorporated.sendtoinc.com
 source:      .
-destination: ./_site
+# destination: ./_site
+destination: ../../public/blog
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
@@ -35,7 +36,7 @@ show_drafts: nil
 limit_posts: 0
 pygments:    true
 relative_permalinks: true
-permalink:     pretty
+permalink:     /:title.html
 paginate_path: 'page:num'
 paginate: 10
 markdown:      maruku
@@ -75,7 +76,7 @@ redcloth:
   hard_breaks: true
 assets:
   dirname: assets
-  baseurl: /assets/
+  baseurl: /blog/assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
