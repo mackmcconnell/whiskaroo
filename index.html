@@ -24,34 +24,68 @@ layout: base
   
 </div>
 
-
-<article class="container">
-{% for post in paginator.posts %}
-  {% unless post.draft %}
-    <section class="index">
-         {% if post.author.image %}<img src="/blog/images/{{ post.author.image }}" class="avatar">{% endif %}
-        <div>
-            <h2 class="title"><a href="/blog{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
-            <div class="meta">
-                Written By <address>{{ post.author.name }}</address> &mdash;
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            </div>
+<article>
+    <div class='container-fluid'>
+      <div class='row'>
+        <div class='col-md-8'>
+            {% for post in paginator.posts %}
+              {% unless post.draft %}
+                <section class="index">
+                     {% if post.author.image %}<img src="/blog/images/{{ post.author.image }}" class="avatar">{% endif %}
+                    <div>
+                        <h2 class="title"><a href="/blog{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+                        <p>{{ post.excerpt }}</p>
+                        <div class="meta">
+                            Written By <address>{{ post.author.name }}</address> &mdash;
+                            <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+                        </div>
+                    </div>
+                    <hr>
+                </section>
+              {% endunless %}
+            {% endfor %}
         </div>
-        <hr>
-    </section>
-    {% endunless %}
-    {% endfor %}
-    <section class="pagination" style="text-align:center">
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
-        {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
-      {% endif %}
-    </section>
+        <div class='col-md-3' style='margin-left: 60px; padding-left:50px; border-left: 1px dashed #333;'>
+          <div class='right-sidebar-container'>
+            <h4>Email on the Rocks</h4>
+            <p>Sign up for giveaways, tasting notes and goodies</p>
+            <form action="http://getsimpleform.com/messages?form_api_token=78b32d7eb7b7c9c7239ada158e13d7e1" method='post' action=''>
+                <input name='test', type="text">
+                <input name='redirect_to', type="hidden", value="http://www.tastersclub.com/blog">
+                <br><br>
+                <input class="btn btn-success btn-flat" type='submit' value='Submit'>
+            </form>
+            <div class='top-posts'>
+              <div class='posts'>
+                <hr>
+                <h4>Recent Posts</h4>
+                {% for post in site.posts limit:15 %}
+                <div class='sidebar-post-title'>
+                  <a href="/blog{{post.url}}" }>
+                    {{post.title}}
+                  </a>
+                </div>
+                {% endfor %}
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <div class='row center'>
+
+        <section class="pagination" style="text-align:center">
+          {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+            <a href="/" class="btn btn-outline">‹ Newer</a>
+            {% else %}
+            <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+            {% endif %}
+          {% endif %}
+          {% if paginator.next_page %}
+            <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+          {% endif %}
+        </section>
+    </div>
 </article>
+
