@@ -4,11 +4,11 @@ title: Whiskey for your Valentine
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/5.jpg"
 excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
 author:
-  name: Mack McConnell
-  twitter: mackattaq
-  gplus: 100687498195339762535 
-  bio: Founder | Taster's Club
-  image: author_mack.png
+  name: Danica Newon
+  twitter: chicrunner
+  gplus: 113089563013093964421 
+  bio: Marketing | Taster's Club
+  image: author_danica.jpg
 ---
 ![valentines day whiskey](https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/tc_collage_vday.jpg)
 
