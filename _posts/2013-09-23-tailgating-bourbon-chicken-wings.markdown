@@ -5,11 +5,11 @@ subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
 excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
 author:
-  name: Mack McConnell
-  twitter: mackattaq
-  gplus: 100687498195339762535 
-  bio: Founder | Taster's Club
-  image: author_mack.png
+  name: Danica Newon
+  twitter: chicrunner
+  gplus: 113089563013093964421 
+  bio: Marketing | Taster's Club
+  image: author_danica.jpg
 ---
 ![bourbon chicken wings](https://dl.dropboxusercontent.com/u/20403642/honey-smoked-bourbon-chicken-wings.jpg)
 

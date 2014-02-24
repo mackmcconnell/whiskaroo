@@ -4,11 +4,11 @@ title: Hot Buttered Whiskey
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/9.jpg"
 excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
 author:
-  name: Mack McConnell
-  twitter: mackattaq
-  gplus: 100687498195339762535 
-  bio: Founder | Taster's Club
-  image: author_mack.png
+  name: Danica Newon
+  twitter: chicrunner
+  gplus: 113089563013093964421 
+  bio: Marketing | Taster's Club
+  image: author_danica.jpg
 ---
 With cold winter nights on the horizon, nothing warms you up quite like a hot drink. Most people associate the Hot Butter version with Rum, but with the right whiskey, it's quite a treat and will keep you cozy. This Hot Buttered Whiskey recipe is one that will quickly become a favorite with friends and family and is perfect for any holiday gathering no matter how big or small. It's easy to make and your after dinner drinks will never be the same. 
 
