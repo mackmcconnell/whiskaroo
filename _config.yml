@@ -22,7 +22,7 @@ inc:
     google: 
       id:       false
   google_font: 'Droid+Sans:400,700'
-url:         http://incorporated.sendtoinc.com
+url:         http://www.tastersclub.com
 source:      .
 # destination: ./_site
 destination: ../../public/blog
