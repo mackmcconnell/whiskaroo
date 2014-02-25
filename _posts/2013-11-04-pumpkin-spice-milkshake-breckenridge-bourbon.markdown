@@ -3,7 +3,7 @@ layout: post
 title: Pumpkin Spice Milkshake & Breckenridge Bourbon
 subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "This Pumpkin Spice Milkshake is perfect for the Holiday season, starting with Halloween and going all the way through Christmas. With the addition..."
 author:
   name: Danica Newon
   twitter: chicrunner

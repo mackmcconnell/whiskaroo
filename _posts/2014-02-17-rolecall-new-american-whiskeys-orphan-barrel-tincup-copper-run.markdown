@@ -2,7 +2,7 @@
 layout: post
 title: Rolecall - New American Whiskeys
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/12.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "When there is such a demand for whiskey, it only makes sense that distilleries release new products and even more boutique distilleries start popping up..."
 author:
   name: Mack McConnell
   twitter: mackattaq

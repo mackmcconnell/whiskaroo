@@ -3,7 +3,7 @@ layout: post
 title: Where Has All The Pappy Gone?
 subtitle: "Missing: America's favorite bourbon"
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/1.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "Before the Holidays there was an apparent inside heist that took one of Kentucky's prized possessions out of commission, which left many Christmas stockings empty..."
 author:
   name: Mack McConnell
   twitter: mackattaq

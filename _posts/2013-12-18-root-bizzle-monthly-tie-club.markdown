@@ -2,7 +2,7 @@
 layout: post
 title: Root Bizzle - Monthly Tie Club
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/5.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "You’re already scoring one of the best gifts for your loved one this season, a Membership to Taster’s Club, but now you’re in need the perfect stocking stuffer. Something else..."
 author:
   name: Danica Newon
   twitter: chicrunner

@@ -3,7 +3,7 @@ layout: post
 title: Whiskey Tasting 101
 subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "You arrive to the latest gathering with your friends and you notice something a little different. The table is full of smaller bottles and tulip shaped glasses with..."
 author:
   name: Mack McConnell
   twitter: mackattaq

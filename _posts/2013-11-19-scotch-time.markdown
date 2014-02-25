@@ -3,7 +3,7 @@ layout: post
 title: It's Scotch's Time.
 subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "With a multitude of different varieties, years of aging and it's growing popularity with a younger generation, it is currently one of the hottest drinks out there..."
 author:
   name: Mack McConnell
   twitter: mackattaq

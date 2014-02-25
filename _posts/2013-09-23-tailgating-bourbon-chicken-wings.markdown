@@ -3,7 +3,7 @@ layout: post
 title: Tailgating + Bourbon + Chicken Wings = Awesome
 subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "It's tailgating time and we've got the perfect pairing of bourbon and wings for your next big game. These Smoked Honey Bourbon Chicken Wings will disappear..."
 author:
   name: Danica Newon
   twitter: chicrunner

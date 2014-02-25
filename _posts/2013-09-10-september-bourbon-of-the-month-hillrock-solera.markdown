@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ! 'September Bourbon of the Month: Hillrock Solera'
+title: September Bourbon of the Month - Hillrock Solera
 subtitle: "What's in the box"
 cover_image: "http://www.thedistilledlife.com/admin/wp-content/uploads/2012/06/Dubstep-whiskey.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "In August, our Bourbon of the Month Club Members received a bottle of Hillrock Solera Aged Bourbon. Besides producing some really tasty stuff, their distillery has racked up a lot of "cool points" from..."
 author:
   name: Mack McConnell
   twitter: mackattaq
@@ -11,6 +11,7 @@ author:
   bio: Founder | Taster's Club
   image: author_mack.png
 ---
+
 ![Hillrock Solera Aged Bourbon](https://dl.dropboxusercontent.com/u/20403642/hillrock.jpg)
 
 In August, our Bourbon of the Month Club Members received a bottle of Hillrock Solera Aged Bourbon. Besides producing some really tasty stuff, their distillery has racked up a lot of "cool points" from the Taster's Club Team.

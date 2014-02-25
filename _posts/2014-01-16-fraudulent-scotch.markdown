@@ -2,7 +2,7 @@
 layout: post
 title: Beware of Fradulent Scotch
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/11.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "One of the best known Scottish exports is scotch and the government is now working to make sure you're getting the real thing. Generating over 6.6 billion..."
 author:
   name: Mack McConnell
   twitter: mackattaq

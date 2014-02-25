@@ -2,7 +2,7 @@
 layout: post
 title: Bourbon Family Tree
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/1.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "Whiskey ancestry. Cool stuff, eh? It's pretty interesting to see how so many bourbons we know trace back to relatively few distilleries..."
 author:
   name: Mack McConnell
   twitter: mackattaq

@@ -3,7 +3,7 @@ layout: post
 title: Give the Gift of Whiskey!
 subtitle: "May I suggest Taster's Club?"
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/4.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "Everyone knows how hard it is to shop for the men in your life. Whether it's your dad, boyfriend or best friend, men are typically difficult to shop for. Add in..."
 author:
   name: Danica Newon
   twitter: chicrunner

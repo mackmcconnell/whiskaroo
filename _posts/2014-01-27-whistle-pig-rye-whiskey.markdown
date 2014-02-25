@@ -3,7 +3,7 @@ layout: post
 title: WhistlePig Rye Whiskey
 subtitle: "Quickly becoming a household name"
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/3.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "You may have heard of it, but have you had the chance to taste WhistlePig yet? If not, try to get your hands on a bottle as soon as possible. Trust us, you won't regret..."
 author:
   name: Mack McConnell
   twitter: mackattaq

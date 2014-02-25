@@ -3,7 +3,7 @@ layout: post
 title: Best Whiskey Glasses
 subtitle: "How do drink in style"
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/12.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "Drinking whiskey isn't only about what you're pouring into your glass, it's about what the glass looks like. Whether you're entertaining or enjoying a glass at home..."
 author:
   name: Danica Newon
   twitter: chicrunner

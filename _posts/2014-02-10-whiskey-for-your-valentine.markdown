@@ -2,7 +2,7 @@
 layout: post
 title: Whiskey for your Valentine
 cover_image: "https://dl.dropboxusercontent.com/u/20403642/whiskaroo_images/whiskaroo_header_images/5.jpg"
-excerpt: "Fall is approaching and that means warm desserts, time with family and friends and rich flavors! Cooking with Bourbon adds a unique twist to any dish that you’re making and we wanted to share an amazing Peach Bourbon Pie with.."
+excerpt: "The time is upon us once again to purchase a gift for the one you love! With Valentine's Day quickly approaching (at the end of this week in case you needed..."
 author:
   name: Danica Newon
   twitter: chicrunner
