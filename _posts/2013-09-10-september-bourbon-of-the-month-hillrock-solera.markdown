@@ -12,13 +12,13 @@ author:
   image: author_mack.png
 ---
 
-![Hillrock Solera Aged Bourbon](https://dl.dropboxusercontent.com/u/20403642/hillrock.jpg)
+[Hillrock Solera Aged Bourbon](https://dl.dropboxusercontent.com/u/20403642/hillrock.jpg)
 
 In August, our Bourbon of the Month Club Members received a bottle of Hillrock Solera Aged Bourbon. Besides producing some really tasty stuff, their distillery has racked up a lot of "cool points" from the Taster's Club Team.
 
 <br>
 
-![Hillrock Solera Aged Bourbon bottle](https://dl.dropboxusercontent.com/u/20403642/hillrock_bottle.jpg)
+[Hillrock Solera Aged Bourbon bottle](https://dl.dropboxusercontent.com/u/20403642/hillrock_bottle.jpg)
 
 Part of what makes them great is that they pay attention to bourbon tradition, but also bring a fresh perspective to the process, such as their unique farm-to-table (...or "field-to-glass") approach.
 

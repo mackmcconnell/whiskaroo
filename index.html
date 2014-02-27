@@ -49,11 +49,12 @@ layout: base
           <div class='right-sidebar-container'>
             <h4>Email on the Rocks</h4>
             <p>Sign up for giveaways, tasting notes and goodies</p>
-            <form action="http://getsimpleform.com/messages?form_api_token=78b32d7eb7b7c9c7239ada158e13d7e1" method='post' action=''>
-                <input name='test', type="text">
-                <input name='redirect_to', type="hidden", value="http://www.tastersclub.com/blog">
+            <form id='course-signup' accept-charset="UTF-8" data-remote="true" enctype="multipart/form-data" method="post">  <div style="margin:0;padding:0;display:inline">
+                  <input name="utf8" type="hidden" value="✓">
+                </div>
+                <input id="email-submit-field" name="email-submit-field" type="text">
                 <br><br>
-                <input class="btn btn-success btn-flat" type='submit' value='I want in!'>
+                <input class="btn btn-primary btn-large btn-success email-submit" name="commit" type="submit" value="I want in!">
             </form>
             <div class='top-posts'>
               <div class='posts'>
