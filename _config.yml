@@ -12,7 +12,7 @@ inc:
   product_link: http://www.tastersclub.com
   tagline:      ""
   disqus:
-    shortname:  false
+    shortname:  true
   sharing:
     twitter:    true
     facebook:   true
