@@ -27,7 +27,7 @@ layout: base
 <article>
     <div class='container-fluid'>
       <div class='row'>
-        <div class='col-md-8'>
+        <div class='col-md-8' style="border-right: 1px dashed #333;">
             {% for post in paginator.posts %}
               {% unless post.draft %}
                 <section class="index">
@@ -45,8 +45,8 @@ layout: base
               {% endunless %}
             {% endfor %}
         </div>
-        <div class='col-md-3' style='margin-left: 60px; padding-left:50px; border-left: 1px dashed #333;'>
-          <div class='right-sidebar-container'>
+        <div class='col-md-4'>
+          <div class='right-sidebar-container' width="300" style="padding-left: 30px;">
             <h4>Email on the Rocks</h4>
             <p>Sign up for giveaways, tasting notes and goodies</p>
             <form id='course-signup' accept-charset="UTF-8" data-remote="true" enctype="multipart/form-data" method="post">  <div style="margin:0;padding:0;display:inline">
@@ -56,6 +56,16 @@ layout: base
                 <br><br>
                 <input class="btn btn-primary btn-large btn-success email-submit" name="commit" type="submit" value="I want in!">
             </form>
+            <hr>
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=366828023430151";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+            <div class="fb-like-box" data-href="http://www.facebook.com/tastersclub" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
             <div class='top-posts'>
               <div class='posts'>
                 <hr>

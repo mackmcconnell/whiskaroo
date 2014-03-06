@@ -5,8 +5,8 @@ inc:
   logo:         logo_bright.png
   company:      Taster's Club
   url:          http://www.tastersclub.com/
-  facebook:     tastersclub
   twitter:      tastersclub
+  facebook:     tastersclub
   gplus:        '101183822199340201470'
   about_link:   https://www.tastersclub.com/
   product_link: http://www.tastersclub.com
@@ -17,7 +17,7 @@ inc:
     twitter:    true
     facebook:   true
     gplus:      true
-    hn:         true  
+    hn:         false
   analytics:
     google: 
       id:       false

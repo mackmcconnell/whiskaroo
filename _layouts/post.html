@@ -18,8 +18,8 @@ layout: base
             </div>
             <h1 class="title">{{ page.title }}</h1>
             {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-            {% include _social2.html %}
-
+            {% assign link = {{page.url}} %}
+            {% include _social.html link = link %}
         </header>
 
         <section>
