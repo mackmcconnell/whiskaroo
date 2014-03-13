@@ -11,7 +11,7 @@ author:
   image: author_miruna.jpeg
 ---
 
-#Susan and Carla from the Bourbon Women's Organization talk to us about whiskey and women
+##Susan and Carla from the Bourbon Women's Organization talk to us about whiskey and women
 
 ![image](https://dl.dropboxusercontent.com/u/64779860/whiskaroo_photos/bourben%20women%20header.png)
 
@@ -65,7 +65,7 @@ We were lucky enough to have a few words with Susan and Carla to learn a bit mor
 
 **SR**:  There is a long history of women as distillers and as whiskery drinkers. You don't need any gender-specific body parts to enjoy bourbon or other whiskies. Everyone appreciates great flavors and elegant, well-made sippage, be it wine, beer, or whiskey. Cheers!
 
-**CC**: I think many women are already enjoying bourbon and whiskey, either neat or in cocktails. It’s the whiskey industry that needs to be educated about that. That’s one of the main reasons the Bourbon Women Associated was created.
+**CC**: I think many women are already enjoying bourbon and whiskey, either neat or in cocktails. It’s the whiskey industry that needs to be educated about that. That’s one of the main reasons the Bourbon Women Association was created.
 
 
 If you too have a business, organization, blog or just a genuine interest in whiskey and would like to be featured on the Taster's Club blog don't hesitate to contact us <a href="mailto:miruna@tastersclub.com?subject=Feature me!">Here</a>. 
